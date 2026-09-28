@@ -1,0 +1,17 @@
+DECISION TREE - FINAL TEST EVALUATION
+============================================================
+
+Accuracy:    0.9556
+Precision:   0.9629
+Sensitivity: 0.9348
+Specificity: 0.9718
+ROC-AUC:     0.9847
+
+Confusion Matrix:
+                     Predicted
+                     0       1
+Actual 0          14119     409
+Actual 1            741   10624
+
+0 = neutral or dissatisfied
+1 = satisfied

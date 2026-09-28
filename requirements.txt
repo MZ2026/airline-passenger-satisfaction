@@ -1,0 +1,11 @@
+# Data handling
+pandas
+
+# Machine learning
+scikit-learn
+
+# Plotting
+matplotlib
+
+# Jupyter notebook support
+jupyter

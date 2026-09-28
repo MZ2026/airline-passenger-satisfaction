@@ -1,0 +1,13 @@
+TUNED RANDOM FOREST - FINAL TEST EVALUATION
+
+Accuracy:    0.9631
+Precision:   0.9711
+Sensitivity: 0.9440
+Specificity: 0.9780
+ROC-AUC:     0.9941
+
+Confusion Matrix:
+TN: 14209
+FP: 319
+FN: 637
+TP: 10728

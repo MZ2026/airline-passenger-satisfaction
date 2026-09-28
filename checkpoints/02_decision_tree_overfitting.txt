@@ -1,0 +1,6 @@
+DECISION TREE - OVERFITTING CHECK
+==================================================
+
+Mean training accuracy:   1.0000
+Mean validation accuracy: 0.9448
+Difference:               0.0552

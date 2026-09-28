@@ -1,0 +1,10 @@
+DECISION TREE - UNTUNED VS TUNED
+============================================================
+
+                     Untuned   Tuned  Difference
+Validation Accuracy   0.9448  0.9532      0.0084
+Precision             0.9342  0.9594      0.0252
+Sensitivity           0.9386  0.9315     -0.0071
+Specificity           0.9494  0.9698      0.0204
+ROC-AUC               0.9440  0.9833      0.0393
+Training Accuracy     1.0000  0.9681     -0.0319

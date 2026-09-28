@@ -1,0 +1,29 @@
+TUNED RANDOM FOREST - 5-FOLD CROSS-VALIDATION
+
+Best parameters:
+{'classifier__max_depth': None, 'classifier__min_samples_leaf': 1, 'classifier__min_samples_split': 10, 'classifier__n_estimators': 200}
+
+Fold Results:
+        Accuracy  Precision  Sensitivity  Specificity   ROC-AUC
+Fold 1  0.963463   0.972312     0.942533     0.979472  0.994670
+Fold 2  0.960761   0.970175     0.938300     0.977939  0.993860
+Fold 3  0.962836   0.973581     0.939755     0.980492  0.993932
+Fold 4  0.964043   0.970840     0.945434     0.978278  0.994108
+Fold 5  0.964137   0.972464     0.943980     0.979555  0.994055
+
+Mean Results:
+Accuracy       0.963048
+Precision      0.971875
+Sensitivity    0.942001
+Specificity    0.979147
+ROC-AUC        0.994125
+
+Standard Deviation:
+Accuracy       0.001381
+Precision      0.001361
+Sensitivity    0.002946
+Specificity    0.001037
+ROC-AUC        0.000320
+
+Mean training accuracy: 0.9853
+Mean validation accuracy: 0.9630

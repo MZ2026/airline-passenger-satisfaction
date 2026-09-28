@@ -1,0 +1,9 @@
+INITIAL VS TUNED RANDOM FOREST
+
+                      Initial     Tuned  Difference
+Validation Accuracy  0.962971  0.963048    0.000077
+Precision            0.972478  0.971875   -0.000604
+Sensitivity          0.941199  0.942001    0.000802
+Specificity          0.979624  0.979147   -0.000477
+ROC-AUC              0.994082  0.994125    0.000043
+Training Accuracy    0.999995  0.985294   -0.014702

@@ -1,0 +1,24 @@
+INITIAL RANDOM FOREST - 5-FOLD CROSS-VALIDATION
+
+ Accuracy  Precision  Sensitivity  Specificity  ROC-AUC
+ 0.963705   0.972979     0.942421     0.979983 0.994601
+ 0.961195   0.970639     0.938857     0.978279 0.993826
+ 0.962498   0.974546     0.937973     0.981259 0.993902
+ 0.963657   0.972219     0.943096     0.979385 0.994122
+ 0.963800   0.972009     0.943646     0.979215 0.993958
+ 0.962971   0.972478     0.941199     0.979624 0.994082
+ 0.001126   0.001431     0.002597     0.001099 0.000310
+
+Mean Results:
+Accuracy       0.825564
+Precision      0.833757
+Sensitivity    0.807113
+Specificity    0.839835
+ROC-AUC        0.852114
+
+Standard Deviation:
+Accuracy       0.363544
+Precision      0.367023
+Sensitivity    0.354765
+Specificity    0.369849
+ROC-AUC        0.375611

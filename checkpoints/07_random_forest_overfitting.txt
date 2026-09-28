@@ -1,0 +1,5 @@
+INITIAL RANDOM FOREST - OVERFITTING CHECK
+
+Mean training accuracy:   1.0000
+Mean validation accuracy: 0.9630
+Difference:               0.0370

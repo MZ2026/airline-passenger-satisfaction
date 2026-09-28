@@ -1,0 +1,22 @@
+DECISION TREE - TUNED 5-FOLD CROSS-VALIDATION
+============================================================
+
+Best settings:
+max_depth: 15
+min_samples_split: 20
+min_samples_leaf: 1
+
+Cross-validation results:
+        Accuracy  Precision  Sensitivity  Specificity  ROC-AUC
+Fold 1    0.9540     0.9582       0.9345       0.9688   0.9859
+Fold 2    0.9522     0.9643       0.9238       0.9739   0.9822
+Fold 3    0.9524     0.9609       0.9280       0.9711   0.9822
+Fold 4    0.9550     0.9598       0.9354       0.9700   0.9845
+Fold 5    0.9524     0.9536       0.9357       0.9652   0.9817
+Mean      0.9532     0.9594       0.9315       0.9698   0.9833
+Std       0.0012     0.0039       0.0053       0.0032   0.0018
+
+Overfitting check:
+Mean training accuracy:   0.9681
+Mean validation accuracy: 0.9532
+Difference:               0.0149
