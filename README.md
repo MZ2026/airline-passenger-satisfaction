@@ -29,7 +29,7 @@ Both models were tuned using 5-fold Stratified Cross-Validation and evaluated on
 
 ```text
 airline-passenger-satisfaction/
-├── assets/                 # App preview images and screenshots
+├── images/                 # App preview images and screenshots
 │   └── dashboard_preview.png
 ├── data/                   # Raw train and test CSV files
 ├── prepared_data/          # Cleaned datasets output from preprocessing

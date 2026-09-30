@@ -1,11 +1,14 @@
 # Data handling
-pandas
+pandas>=2.0.0
 
 # Machine learning
-scikit-learn
+scikit-learn>=1.2.0
 
 # Plotting
-matplotlib
+matplotlib>=3.7.0
+
+# Interactive web app
+streamlit>=1.25.0
 
 # Jupyter notebook support
-jupyter
+jupyter>=1.0.0

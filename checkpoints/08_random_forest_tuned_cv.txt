@@ -10,20 +10,22 @@ Fold 2  0.960761   0.970175     0.938300     0.977939  0.993860
 Fold 3  0.962836   0.973581     0.939755     0.980492  0.993932
 Fold 4  0.964043   0.970840     0.945434     0.978278  0.994108
 Fold 5  0.964137   0.972464     0.943980     0.979555  0.994055
+Mean    0.963048   0.971875     0.942001     0.979147  0.994125
+Std     0.001381   0.001361     0.002946     0.001037  0.000320
 
 Mean Results:
-Accuracy       0.963048
-Precision      0.971875
-Sensitivity    0.942001
-Specificity    0.979147
-ROC-AUC        0.994125
+Accuracy       0.825667
+Precision      0.833230
+Sensitivity    0.807850
+Specificity    0.839417
+ROC-AUC        0.852153
 
 Standard Deviation:
-Accuracy       0.001381
-Precision      0.001361
-Sensitivity    0.002946
-Specificity    0.001037
-ROC-AUC        0.000320
+Accuracy       0.363478
+Precision      0.366821
+Sensitivity    0.354937
+Specificity    0.369692
+ROC-AUC        0.375623
 
 Mean training accuracy: 0.9853
 Mean validation accuracy: 0.9630
