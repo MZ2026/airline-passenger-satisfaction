@@ -10,5 +10,9 @@ matplotlib>=3.7.0
 # Interactive web app
 streamlit>=1.25.0
 
+# Interactive charts
+plotly>=5.24,<7
+
 # Jupyter notebook support
 jupyter>=1.0.0
+
